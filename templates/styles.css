@@ -1,0 +1,53 @@
+body {
+  background-image: url('engine.jpeg'); /* Replace 'background_image.jpg' with your actual background image */
+  background-size: cover;
+  font-family: 'Arimo', sans-serif;
+}
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .login {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  }
+  
+  .login h1 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #333;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666;
+  }
+  
