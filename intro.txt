@@ -1,0 +1,3 @@
+Power Output Estimator Final Project - Background
+A combined-cycle power plant uses both a gas and a steam turbine together to produce up to 50% more electricity from the same fuel than a traditional simple-cycle plant.
+The waste heat from the gas turbine is routed to the nearby steam turbine, which generates extra power.
