@@ -12,11 +12,6 @@ model = pickle.load(open('model.pkl','rb'))
 def Home():
     return render_template("index.html")
 
-# # Route to serve styles.css
-# @app.route("/styles.css")
-# def styles():
-#     return app.send_static_file("styles.css")
-
 
 @app.route("/predict",methods=["POST"])
 def predict():
